@@ -868,11 +868,16 @@ padding:25px;
 
 }
 
-@media screen and (max-width:480px){
+@media screen and (max-width:400px){
     .experience-box li {
     margin-bottom: 12px;
     color: #e5e7eb;
     line-height: 1.7;
     width: 150px;
     }
+    .project-card img {
+    width: 185px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
 }
