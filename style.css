@@ -867,3 +867,12 @@ padding:25px;
     color:#000;
 
 }
+
+@media screen and (max-width:480px){
+    .experience-box li {
+    margin-bottom: 12px;
+    color: #e5e7eb;
+    line-height: 1.7;
+    width: 150px;
+    }
+}
